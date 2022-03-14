@@ -19,5 +19,7 @@ public class jUnitTests {
 
         assertEquals(5.5, price-discount, 0);
     }
+
+
 }
 
